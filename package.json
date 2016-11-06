@@ -1,0 +1,23 @@
+{
+  "name": "uni-task-2-arsfiqball",
+  "version": "0.0.1",
+  "description": "Repositori ini merupakan koleksi data dari sumber terbuka yang berkaitan dengan Pulau Saparua. Pulau Saparua sendiri adalah pulau yang mencakup sebagian wilayah di Provinsi Maluku, Kabupaten Maluku Tengah, tepatnya di Kecamatan Saparua. Pulau ini memiliki sekitar 32 ribu jumlah penduduk terhitung sejak 2010 yang dilakukan oleh badan sensus nasional BPS. Folder [documents](/documents) memuat salinan data dari [sumber-sumber](/sources.md) data terbuka milik pemerintah dan swasta dalam negeri maupun luar negeri.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BesutKode/uni-task-2-Arsfiqball.git"
+  },
+  "author": "Iqbal Mohammad Abdul Ghoni <iqballmags@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BesutKode/uni-task-2-Arsfiqball/issues"
+  },
+  "homepage": "https://github.com/BesutKode/uni-task-2-Arsfiqball#readme",
+  "dependencies": {
+    "togeojson": "^0.16.0",
+    "xmldom": "^0.1.22"
+  }
+}

@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+# External Packages
+/node_modules
+npm.log

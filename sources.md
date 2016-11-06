@@ -31,6 +31,26 @@ Hasil SP2010 berguna sebagai bahan perencanaan, monitoring, dan evaluasi pembang
 - Undang Undang Nomor 16 tahun 1997 tentang Statistik.
 - Peraturan Pemerintah Nomor 51 Tahun 1999 tentangPenyelenggaraan Statistik.
 - Peraturan Presiden Nomor 86 Tahun 2007 tentang Struktur Organisasi BPS.
+
 *disalin dari http://sp2010.bps.go.id/index.php/metadata/index untuk kategori Keterangan Umum*<br>
 
 
+### Lahan Kritis
+Data Lahan Kritis kami dapatkan dari dokumen di bawah ini. Lengkap dengan link salinan data ke repositori dan link sumber.
+
+###### Dokumen
+Tentang | Isi
+---|---
+Judul | Lahan Kritis - Maluku
+Dokumen | [lahan-kritis.kml](/documents/lahan-kritis.kml)
+Dokumen Terkonversi | [lahan-kritis.geojson](/documents/lahan-kritis.geojson)
+Link sumber | http://webgis.dephut.go.id:8080/kemenhut/index.php/id/fitur/unduhan
+
+###### Cara Mendapatkan
+Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan untuk mendapatkan data.
+- Buka WebGIS Kementrian Lingkungan Hidup dan Kehutanan ( http://webgis.dephut.go.id ). Biasanya anda akan diredirect ke http://webgis.dephut.go.id:8080/kemenhut/index.php/id/ (atau anda bisa langsung kunjungi link ini).
+- Lihat di navbar, arahkan mouse anda ke bagian *FITUR*, lalu akan muncul dropdown, pilih *Unduhan*.
+- Lihat pada panel *File KML*, klik tanda plus [+] di sebelah kiri *Lahan Kritis*. Lalu pilih *Maluku*.
+
+###### Keterkaitan Hukum
+© 2016 Webgis Kementerian Lingkungan Hidup dan Kehutanan. All Rights Reserved.

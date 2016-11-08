@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "tags": {
+          "name": "Porto Haria",
+          "amenity": "clinic"
+        },
+        "meta": {
+          "tipe": "PUSKESMAS",
+          "nama": "Porto Haria",
+          "kode": "P8103080202",
+          "alamat": "Kec. Saparua",
+          "jenis": "NON_KEPERAWATAN",
+          "latitude": -3.543363,
+          "longitude": 128.603668
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.603668,
+          -3.543363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "tags": {
+          "name": "Jasirah Tenggara",
+          "amenity": "clinic"
+        },
+        "meta": {
+          "tipe": "PUSKESMAS",
+          "nama": "Jasirah Tenggara",
+          "kode": "P8103080203",
+          "alamat": "Kec. Saparua",
+          "jenis": "NON_KEPERAWATAN",
+          "latitude": -3.563331,
+          "longitude": 128.643036
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.643036,
+          -3.563331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "tags": {
+          "name": "Saparua",
+          "amenity": "clinic"
+        },
+        "meta": {
+          "tipe": "PUSKESMAS",
+          "nama": "Saparua",
+          "kode": "P8103080201",
+          "alamat": "Ds. Saparua, Kec. Saparua",
+          "jenis": "NON_KEPERAWATAN",
+          "latitude": -3.561843,
+          "longitude": 128.665375
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.665375,
+          -3.561843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "tags": {
+          "name": "Hatamano",
+          "amenity": "clinic"
+        },
+        "meta": {
+          "tipe": "PUSKESMAS",
+          "nama": "Hatamano",
+          "kode": "P8103080204",
+          "alamat": "Ds. Iha Mahu, Kec. Saparua",
+          "jenis": "NON_KEPERAWATAN",
+          "latitude": -3.525354,
+          "longitude": 128.707153
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.707153,
+          -3.525354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "tags": {
+          "name": "RSU Saparua",
+          "amenity": "hospital"
+        },
+        "meta": {
+          "tipe": "RS",
+          "nama": "RSU Saparua",
+          "kode": "8103016",
+          "latitude": -3.57405,
+          "longitude": 128.654
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.654,
+          -3.57405
+        ]
+      }
+    }
+  ]
+}

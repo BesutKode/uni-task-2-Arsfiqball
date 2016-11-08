@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "node",
+        "tags": {
+          "name": "PLTD Saparua",
+          "power": "plant"
+        },
+        "meta": {
+          "objectid": 202,
+          "fasilitas": "",
+          "nama": "PLTD Saparua",
+          "category": "PLTD",
+          "status": "Beroprasi",
+          "nama_kabupaten": "",
+          "jumlah_uni": "",
+          "kapasitas": 1.66,
+          "kode": "",
+          "cod": "",
+          "shape": "Point",
+          "latitude": -3.531,
+          "longitude": 128.609
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.609,
+          -3.531
+        ]
+      }
+    }
+  ]
+}

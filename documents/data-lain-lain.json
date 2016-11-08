@@ -1,0 +1,93 @@
+{
+  "kodepos": 97592,
+  "populasi": {
+  	"c1": {
+  		"lakilaki": 16045,
+  		"perempuan": 16427,
+  		"total": 32472
+  	},
+  	"c2": {
+  		"lakilaki": 0,
+  		"perempuan": 0,
+  		"total": 0
+  	},
+  	"c2_apartemen": {
+  		"lakilaki": 0,
+  		"perempuan": 0,
+  		"total": 0
+  	},
+  	"l2": {
+  		"lakilaki": 3,
+  		"perempuan": 0,
+  		"total": 3
+  	},
+  	"l2_diplomat": {
+  		"lakilaki": 0,
+  		"perempuan": 0,
+  		"total": 0
+  	},
+  	"semua": {
+  		"lakilaki": 16048,
+  		"perempuan": 16427,
+  		"total": 32475
+  	}
+  },
+  "depkes": [
+  	{
+  		"tipe": "PUSKESMAS",
+  		"nama": "Porto Haria",
+  		"kode": "P8103080202",
+  		"alamat": "Kec. Saparua",
+  		"jenis": "NON_KEPERAWATAN",
+  		"latitude": -3.543363,
+  		"longitude": 128.603668
+  	}, {
+  		"tipe": "PUSKESMAS",
+  		"nama": "Jasirah Tenggara",
+  		"kode": "P8103080203",
+  		"alamat": "Kec. Saparua",
+  		"jenis": "NON_KEPERAWATAN",
+  		"latitude": -3.563331,
+  		"longitude": 128.643036
+  	}, {
+  		"tipe": "PUSKESMAS",
+  		"nama": "Saparua",
+  		"kode": "P8103080201",
+  		"alamat": "Ds. Saparua, Kec. Saparua",
+  		"jenis": "NON_KEPERAWATAN",
+  		"latitude": -3.561843,
+  		"longitude": 128.665375
+  	}, {
+  		"tipe": "PUSKESMAS",
+  		"nama": "Hatamano",
+  		"kode": "P8103080204",
+  		"alamat": "Ds. Iha Mahu, Kec. Saparua",
+  		"jenis": "NON_KEPERAWATAN",
+  		"latitude": -3.525354,
+  		"longitude": 128.707153
+  	}, {
+  		"tipe": "RS",
+  		"nama": "RSU Saparua",
+  		"kode": "8103016",
+  		"latitude": -3.57405,
+  		"longitude": 128.654
+  	}
+  ],
+  "den": [
+  	{
+  		"objectid": 202,
+  		"fasilitas": "",
+  		"nama": "PLTD Saparua",
+  		"category": "PLTD",
+  		"status": "Beroprasi",
+  		"nama_kabupaten": "",
+  		"jumlah_uni": "",
+  		"kapasitas": 1.66,
+  		"kode": "",
+  		"cod": "",
+  		"shape": "Point",
+  		"latitude": -3.531,
+  		"longitude": 128.609
+  	}
+  ]
+}

@@ -1,7 +1,9 @@
-Sumber-sumber dokumen
+# Sumber-Sumber Dokumen
+
+Catatan: Sumber dokumen yang tidak bisa atau sulit diekstraksi ditulis ulang pada file [documents/data-lain-lain.json](/documents/data-lain-lain.json) agar mudah diolah oleh mesin.
 
 ### Populasi
-Data Populasi penduduk kami dapatkan dari dokumen di bawah ini. Lengkap dengan link salinan data ke repositori dan link sumber.
+Data Populasi penduduk didapatkan dari dokumen di bawah ini. Lengkap dengan link salinan data ke repositori dan link sumber.
 
 ###### Dokumen
 Tentang | Isi
@@ -33,6 +35,70 @@ Hasil SP2010 berguna sebagai bahan perencanaan, monitoring, dan evaluasi pembang
 - Peraturan Presiden Nomor 86 Tahun 2007 tentang Struktur Organisasi BPS.
 
 *disalin dari http://sp2010.bps.go.id/index.php/metadata/index untuk kategori Keterangan Umum*<br>
+
+
+### Kode Pos
+Data Kode Pos didapatkan dari dokumen di bawah ini. Lengkap dengan link salinan data ke repositori dan link sumber.
+
+###### Dokumen
+Tentang | Isi
+---|---
+Judul | Kode Pos Kecamatan Saparua
+Dokumen | [kode-pos.png](/documents/kode-pos.png)
+Link sumber | http://kodepos.posindonesia.co.id/kodeposalamatindonesialist.php?cmd=search&t=kodeposalamatindonesia&z_Propinsi=%3D&x_Propinsi=81&psearch=Saparua&psearchtype=
+
+###### Cara Mendapatkan
+Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan untuk mendapatkan data.
+- Buka mesin pencarian Kode Pos Indonesia ( http://kodepos.posindonesia.co.id/ ). Biasanya anda akan diredirect ke http://kodepos.posindonesia.co.id/kodeposalamatindonesialist.php
+- Klik tombol Panel Pencarian (gambar kaca pembesar), maka akan muncul form untuk mengisi pencarian.
+- Pilih Propinsi *Maluku* dan isi kolom pencarian dengan kata *Saparua*.
+- Tekan *Cari*. Data kode pos Kecamatan Saparua yang mencakup Pulau Saparua akan muncul.
+
+###### Keterkaitan Hukum
+©2004 - 2014 Pos Indonesia - Divisi Teknologi Informasi. Hak Cipta Dilindungi oleh Undang-Undang.
+
+
+### Layanan Kesehatan
+Data Layanan Kesehatan (Rumah Sakit dan Puskesmas) didapatkan dari dokumen di bawah ini. Lengkap dengan link salinan data ke repositori dan link sumber.
+
+###### Dokumen
+Tentang | Isi
+---|---
+Judul | Layanan Kesehatan di Pulau Saparua
+Dokumen | [departemen-kesehatan.png](/documents/departemen-kesehatan.png)
+Link sumber | http://gis.depkes.go.id/map.php
+
+###### Cara Mendapatkan
+Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan untuk mendapatkan data.
+- Buka Portal SIG Kementrian Kesehatan ( http://gis.depkes.go.id/ ).
+- Pada navbar, pilih *PETA*. Maka aplikasi GIS akan terbuka ( http://gis.depkes.go.id/map.php ).
+- Pilih Propinsi *Maluku* dan Kabupaten *Maluku Tengah*.
+- Lalu klik pada *Puskesmas* dan *Rumah Sakit*. Hijau adalah puskesmas dan biru adalah rumah sakit.
+- Zoom ke pulau Saparua.
+
+###### Keterkaitan Hukum
+Copyright ©2013 - Kementerian Kesehatan Republik Indonesia
+
+
+### Infrastruktur Ketenagalistrikan
+Data Infrastruktur Ketenagalistrikan didapatkan dari dokumen di bawah ini. Lengkap dengan link salinan data ke repositori dan link sumber.
+
+###### Dokumen
+Tentang | Isi
+---|---
+Judul | Infrastruktur Ketenagalistrikan di Pulau Saparua
+Dokumen | [ketenaga-listrikan.png](/documents/ketenaga-listrikan.png)
+Link sumber | http://gis.den.go.id/
+
+###### Cara Mendapatkan
+Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan untuk mendapatkan data.
+- Buka aplikasi WebGIS dari Dewan Energi Nasional ( http://gis.den.go.id/ ).
+- Lihat di kanan bawah ada tombol pencarian (gambar kaca pembesar), klik maka akan muncul kolom pencarian.
+- Lalu isi dengan kata *Saparua*, tekan *enter*.
+- Anda akan dibawa langsung ke peta ketenagalistrikan di Saparua.
+
+###### Keterkaitan Hukum
+Copyright ©2013 - Kementerian Kesehatan Republik Indonesia
 
 
 ### Lahan Kritis

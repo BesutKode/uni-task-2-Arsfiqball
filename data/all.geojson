@@ -16,7 +16,11 @@
           "population": 32475
         },
         "relations": [],
-        "meta": {}
+        "meta": {
+          "populasi": 32475,
+          "bersekolah": 4442,
+          "tak_bersekolah": 547
+        }
       },
       "geometry": {
         "type": "Polygon",

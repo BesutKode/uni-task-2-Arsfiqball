@@ -11,6 +11,9 @@ var data = JSON.parse(fs.readFileSync(pathOriginal, 'utf8'));
 console.log("Injecting data...");
 data.features[0].properties.tags.postal_code = injData.kodepos;
 data.features[0].properties.tags.population = injData.populasi.semua.total;
+data.features[0].properties.meta.populasi = injData.populasi.semua.total;
+data.features[0].properties.meta.bersekolah = injData.partisipasi_bersekolah.bersekolah;
+data.features[0].properties.meta.tak_bersekolah = injData.partisipasi_bersekolah.tak_bersekolah;
 
 console.log("Saving data...");
 fs.writeFile(pathInjected, JSON.stringify(data, null, "  "), function(err) {

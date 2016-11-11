@@ -101,6 +101,26 @@ Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan un
 Copyright ©2013 - Kementerian Kesehatan Republik Indonesia
 
 
+### Partisipasi Bersekolah
+Data Partisipasi Bersekolah didapatkan dari dokumen di bawah ini. Lengkap dengan link salinan data ke repositori dan link sumber.
+
+###### Dokumen
+Tentang | Isi
+---|---
+Judul | Basis Data Terunifikasi mengenai Partisipasi Sekolah
+Dokumen | [partisipasi-bersekolah.csv](/documents/partisipasi-bersekolah.csv)
+Link sumber | http://data.go.id/dataset/basis-data-terunifikasi-mengenai-partisipasi-sekolah
+Lisensi | Creative Commons Attribution License (cc-by)
+
+###### Cara Mendapatkan
+Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan untuk mendapatkan data.
+- Data saya ambil dari Satu Data Indonesia ( data.go.id ).
+- Buka http://data.go.id , anda akan langsung melihat kolom pencarian dan mulai melakukan pencarian.
+- Saya memasukan kueri ``Data Partisipasi Sekolah``, atau anda bisa langsung menggunakan kueri sesuai judul dokumen *"Basis Data Terunifikasi mengenai Partisipasi Sekolah"*. Tekan ``enter``.
+- Data yang anda cari akan muncul dalam list. Pilih yang memiliki judul "Basis Data Terunifikasi mengenai Partisipasi Sekolah".
+- Tekan tombol ``Explore`` lalu ``Unduh``.
+
+
 ### Lahan Kritis
 Data Lahan Kritis kami dapatkan dari dokumen di bawah ini. Lengkap dengan link salinan data ke repositori dan link sumber.
 

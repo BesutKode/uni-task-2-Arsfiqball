@@ -32,6 +32,17 @@
   		"total": 32475
   	}
   },
+  "partisipasi_bersekolah": {
+    "bersekolah_7_12": 2867,
+    "bersekolah_13_15": 1037,
+    "bersekolah_16_18": 538,
+    "bersekolah": 4442,
+    "tak_bersekolah_7_12": 71,
+    "tak_bersekolah_13_15": 107,
+    "tak_bersekolah_16_18": 369,
+    "tak_bersekolah": 547,
+    "semua": 4989
+  },
   "depkes": [
   	{
   		"tipe": "PUSKESMAS",

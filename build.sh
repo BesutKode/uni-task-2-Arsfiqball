@@ -4,8 +4,8 @@ echo "run: node ./scripts/get-osm-saparua-island-data.js"
 node ./scripts/get-osm-saparua-island-data.js
 echo "\n"
 
-echo "run: node ./scripts/inject-saparua-island-tags.js"
-node ./scripts/inject-saparua-island-tags.js
+echo "run: node ./scripts/inject-saparua-island-data.js"
+node ./scripts/inject-saparua-island-data.js
 echo "\n"
 
 echo "run: node ./scripts/make-geojson-of-depkes-data.js"

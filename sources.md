@@ -28,11 +28,29 @@ Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan un
 ###### Keterkaitan Hukum
 BPS merupakan lembaga pemerintah yang menyediakan sumber data terbuka yang berkaitan dengan negara dan pemerintahan.<br>
 Tentang SP2010: <br>
-Penjelasan Umum Kegiatan SP2010 merupakan sensus penduduk ke enam. Sensus penduduk di Indonesia biasa disebut pencacahan penduduk, yaitu pengumpulan data/informasi yang dilakukan terhadap seluruh penduduk yang tinggal di wilayah teritorial Indonesia.<br>
-Hasil SP2010 berguna sebagai bahan perencanaan, monitoring, dan evaluasi pembangunan.<br> 
-- Undang Undang Nomor 16 tahun 1997 tentang Statistik.
-- Peraturan Pemerintah Nomor 51 Tahun 1999 tentangPenyelenggaraan Statistik.
-- Peraturan Presiden Nomor 86 Tahun 2007 tentang Struktur Organisasi BPS.
+<pre>
+Penjelasan Umum
+Penjelasan Umum Kegiatan SP2010 merupakan sensus penduduk ke enam. Sensus penduduk di Indonesia biasa disebut pencacahan penduduk, yaitu pengumpulan data/informasi yang dilakukan terhadap seluruh penduduk yang tinggal di wilayah teritorial Indonesia.
+Hasil SP2010 berguna sebagai bahan perencanaan, monitoring, dan evaluasi pembangunan.
+
+Dasar Hukum
+Undang Undang Nomor 16 tahun 1997 tentang Statistik.
+Peraturan Pemerintah Nomor 51 Tahun 1999 tentangPenyelenggaraan Statistik.
+Peraturan Presiden Nomor 86 Tahun 2007 tentang Struktur Organisasi BPS.
+
+
+Waktu Pelaksanaan Sensus
+1-31 Mei 2010.
+
+Hari Sensus
+15 Mei 2010.
+
+Tujuan
+    Mengumpulkan dan menyajikan data dasar kependudukan sampai wilayah administrasi terkecil.
+    Membentuk Kerangka Sampel Induk (KSI) untuk kepentingan survei-survei lain yang dilakukan dengan pendekatan rumah tangga.
+    Memperkirakan berbagai parameter kependudukan sampai wilayah administrasi tertentu.
+    Mengumpulkan informasi kependudukan yang dapat digunakan/dimanfaatkan untuk penyusunan basis data kependudukan.
+</pre>
 
 *disalin dari http://sp2010.bps.go.id/index.php/metadata/index untuk kategori Keterangan Umum*<br>
 

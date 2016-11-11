@@ -54,6 +54,8 @@ Tujuan
 
 *disalin dari http://sp2010.bps.go.id/index.php/metadata/index untuk kategori Keterangan Umum*<br>
 
+*Undang Undang Nomor 16 tahun 1997 (tentang Statistik) banyak menyebutkan tentang keterbukaan dan aturan pemanfaatan statistik. Misalnya pada Pasal 6 dan Pasal 10.
+
 
 ### Kode Pos
 Data Kode Pos didapatkan dari dokumen di bawah ini. Lengkap dengan link salinan data ke repositori dan link sumber.

@@ -9,8 +9,9 @@ Data Populasi penduduk didapatkan dari dokumen di bawah ini. Lengkap dengan link
 Tentang | Isi
 ---|---
 Judul | Sensus Penduduk 2010 - Penduduk Menurut Wilayah, Jenis Dokumen Pencacahan yang Digunakan, dan Jenis Kelamin - Kabuapten Maluku
-Dokumen | [sp2010.pdf](/documents/sp2010.pdf), [sp2010.xls](/documents/sp2010.xls)
+Oleh | Badan Pusat Statistik, Kedeputian Bidang Statistik Sosial (Penyelenggara), Direktorat Statistik Kependudukan dan Ketenagakerjaan (Penanggung jawab Administrasi), Direktorat Statistik Kependudukan dan Ketenagakerjaan (Penanggung jawab Teknis), BPS Provinsi dan BPS Kabupaten/Kota (Penanggung jawab Lapangan), Direktorat Sistem Informasi Statistik (Penanggung jawab Pengolahan Data), Bidang IPDS - BPS Provinsi (Penanggung jawab Pengolahan Data), BPS Kabupaten/Kota (Penanggung jawab Pengolahan Data), Direktorat Diseminasi Statistik (Penanggung jawab Diseminasi Data)
 Link sumber | http://sp2010.bps.go.id/index.php/site/tabel?tid=337&wid=8103000000
+Dokumen | [sp2010.pdf](/documents/sp2010.pdf), [sp2010.xls](/documents/sp2010.xls)
 
 ###### Cara Mendapatkan
 Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan untuk mendapatkan data.
@@ -64,8 +65,10 @@ Data Kode Pos didapatkan dari dokumen di bawah ini. Lengkap dengan link salinan 
 Tentang | Isi
 ---|---
 Judul | Kode Pos Kecamatan Saparua
-Dokumen | [kode-pos.png](/documents/kode-pos.png)
+Oleh | PT. Pos Indonesia
+Copyright | ©2004 - 2014 Pos Indonesia - Divisi Teknologi Informasi. Hak Cipta Dilindungi oleh Undang-Undang.
 Link sumber | http://kodepos.posindonesia.co.id/kodeposalamatindonesialist.php?cmd=search&t=kodeposalamatindonesia&z_Propinsi=%3D&x_Propinsi=81&psearch=Saparua&psearchtype=
+Dokumen | [kode-pos.png](/documents/kode-pos.png)
 
 ###### Cara Mendapatkan
 Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan untuk mendapatkan data.
@@ -85,8 +88,10 @@ Data Layanan Kesehatan (Rumah Sakit dan Puskesmas) didapatkan dari dokumen di ba
 Tentang | Isi
 ---|---
 Judul | Layanan Kesehatan di Pulau Saparua
-Dokumen | [departemen-kesehatan.png](/documents/departemen-kesehatan.png)
+Oleh | Tim SIG Kementrian Kesehatan
+Copyright | Copyright ©2013 - Kementerian Kesehatan Republik Indonesia
 Link sumber | http://gis.depkes.go.id/map.php
+Dokumen | [departemen-kesehatan.png](/documents/departemen-kesehatan.png)
 
 ###### Cara Mendapatkan
 Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan untuk mendapatkan data.
@@ -107,8 +112,9 @@ Data Infrastruktur Ketenagalistrikan didapatkan dari dokumen di bawah ini. Lengk
 Tentang | Isi
 ---|---
 Judul | Infrastruktur Ketenagalistrikan di Pulau Saparua
-Dokumen | [ketenaga-listrikan.png](/documents/ketenaga-listrikan.png)
+Oleh | Dewan Energi Nasional
 Link sumber | http://gis.den.go.id/
+Dokumen | [ketenaga-listrikan.png](/documents/ketenaga-listrikan.png)
 
 ###### Cara Mendapatkan
 Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan untuk mendapatkan data.
@@ -116,9 +122,6 @@ Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan un
 - Lihat di kanan bawah ada tombol pencarian (gambar kaca pembesar), klik maka akan muncul kolom pencarian.
 - Lalu isi dengan kata *Saparua*, tekan *enter*.
 - Anda akan dibawa langsung ke peta ketenagalistrikan di Saparua.
-
-###### Keterkaitan Hukum
-Copyright ©2013 - Kementerian Kesehatan Republik Indonesia
 
 
 ### Partisipasi Bersekolah
@@ -128,9 +131,10 @@ Data Partisipasi Bersekolah didapatkan dari dokumen di bawah ini. Lengkap dengan
 Tentang | Isi
 ---|---
 Judul | Basis Data Terunifikasi mengenai Partisipasi Sekolah
-Dokumen | [partisipasi-bersekolah.csv](/documents/partisipasi-bersekolah.csv)
-Link sumber | http://data.go.id/dataset/basis-data-terunifikasi-mengenai-partisipasi-sekolah
+Oleh | Kementerian Perencanaan Pembangunan Nasional
 Lisensi | Creative Commons Attribution License (cc-by)
+Link sumber | http://data.go.id/dataset/basis-data-terunifikasi-mengenai-partisipasi-sekolah
+Dokumen | [partisipasi-bersekolah.csv](/documents/partisipasi-bersekolah.csv)
 
 ###### Cara Mendapatkan
 Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan untuk mendapatkan data.
@@ -148,9 +152,12 @@ Data Lahan Kritis kami dapatkan dari dokumen di bawah ini. Lengkap dengan link s
 Tentang | Isi
 ---|---
 Judul | Lahan Kritis - Maluku
+Oleh | Kementerian Lingkungan Hidup dan Kehutanan
+Lisensi | Creative Commons Attribution License (cc-by)
+Copyright | © 2016 Webgis Kementerian Lingkungan Hidup dan Kehutanan. All Rights Reserved.
 Dokumen | [lahan-kritis.kml](/documents/lahan-kritis.kml)
 Dokumen Terkonversi | [lahan-kritis.geojson](/documents/lahan-kritis.geojson)
-Link sumber | http://webgis.dephut.go.id:8080/kemenhut/index.php/id/fitur/unduhan
+Link sumber | http://webgis.dephut.go.id:8080/kemenhut/index.php/id/fitur/unduhan , http://data.go.id/dataset/data-lahan-kritis-di-maluku
 
 ###### Cara Mendapatkan
 Data bisa didapatkan secara online. Berikut langkah-langkah yang saya lakukan untuk mendapatkan data.

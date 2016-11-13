@@ -42,5 +42,6 @@ Silahkan klik obyek di peta.
 ![Screenshot 1](/screenshots/1.png)
 ![Screenshot 1](/screenshots/2.png)
 ![Screenshot 1](/screenshots/3.png)
+![Screenshot 1](/screenshots/4.png)
 
 [Issues](https://github.com/BesutKode/uni-task-2-Arsfiqball/issues)

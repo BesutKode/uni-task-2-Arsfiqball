@@ -8,9 +8,9 @@ echo "run: node ./scripts/inject-saparua-island-data.js"
 node ./scripts/inject-saparua-island-data.js
 echo "\n"
 
-echo "run: node ./scripts/convert-kml-to-geojson.js"
-node ./scripts/convert-kml-to-geojson.js
-echo "\n"
+# echo "run: node ./scripts/convert-kml-to-geojson.js"
+# node ./scripts/convert-kml-to-geojson.js
+# echo "\n"
 
 echo "run: node ./scripts/crop-critical-land-data.js"
 node ./scripts/crop-critical-land-data.js
